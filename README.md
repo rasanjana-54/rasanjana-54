@@ -1,73 +1,54 @@
-Hey, I'm Rasanjana 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #ff7e5f, #feb47b);
+            color: transparent;
+            font-size: 48px;
+            animation: gradient 3s ease infinite;
+            overflow: hidden;
+        }
 
-🚀 Aspiring Software Engineer | Full-Stack Developer
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
 
-I’m an IT undergraduate passionate about building real-world software applications and improving my problem-solving skills through hands-on development.
+        .text {
+            animation: typewriter 4s steps(30, end);
+            border-right: 3px solid;
+            white-space: nowrap;
+            overflow: hidden;
+        }
 
+        @keyframes typewriter {
+            from { width: 0; }
+            to { width: 100%; }
+        }
 
+        .wave {
+            display: inline-block;
+            animation: wave-animation 1s infinite;
+        }
 
-💡 About Me
-
-✔ Strong interest in Full-Stack Development
-✔ Currently learning modern web technologies
-✔ Passionate about coding and continuous learning
-✔ Focused on becoming a high-impact software engineer
-
-💬 "Discipline beats motivation — I show up and build."
-
----
-
-🔥 What I Do
-
-✔ Build small to medium-scale applications
-✔ Practice data structures and algorithms
-✔ Learn and apply new technologies
-✔ Write clean and efficient code
-
-
-
-🧠 Tech Stack
-
-💻 Languages
-
-* Java
-* JavaScript
-* Python
-
-⚙️ Backend
-
-* Node.js (Learning)
-
-💻 Frontend
-
-* HTML, CSS, JavaScript
-
-🗄️ Database
-
-* MySQL (Basic)
-
-🔧 Tools
-
-* Git, GitHub, VS Code
-
-
-
-🚀 Current Focus
-
-* Improving problem-solving skills
-* Building full-stack projects
-* Learning MERN stack
-* Preparing for internships
-
-
-
-📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rasanjana-54\&show_icons=true\&theme=dark)
-
-
-
-## 📫 Contact Me
-
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-🔗 LinkedIn: add-your-link
+        @keyframes wave-animation {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+    </style>
+    <title>Animated Greeting</title>
+</head>
+<body>
+    <div class="text">
+        <span class="wave">Hey, I'm Rasanjana</span>
+    </div>
+</body>
+</html>
