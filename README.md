@@ -52,6 +52,7 @@
 
 ## 📫 Get in Touch
 
+- 🌐 **Live Portfolio:** https://rasanjana-54.github.io/portfolio/
 - 📧 **Email:** [your-email@gmail.com](mailto:your-rasanjananimsara4@gmail.com)
 - 🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/kodagoda-n-833302325)
 - 💻 **GitHub:** [@rasanjana-54](https://github.com/rasanjana-54)
