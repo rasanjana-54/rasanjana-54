@@ -65,12 +65,10 @@ I am a dedicated **IT Undergraduate** with a strong foundation in **Full-Stack D
 
 ## 📊 Analytics & Impact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasanjana-54&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana-54&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasanjana-54&show_icons=true&theme=dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana-54&layout=compact&theme=dark)
+
 
 ## 🎯 Career Objectives
 
