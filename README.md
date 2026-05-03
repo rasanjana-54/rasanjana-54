@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://rasanjana-54.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-rasanjananimsara4@gmail.com)
 
-![Profile Banner](file:///C:/Users/Ideapad/.gemini/antigravity/brain/40dc406a-b18d-4a0d-99fb-772e325863ad/github_profile_banner_1777790979620.png)
+
 
 </div>
 
