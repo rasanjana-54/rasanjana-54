@@ -68,8 +68,9 @@ I am a dedicated **IT Undergraduate** with a strong foundation in **Full-Stack D
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasanjana-54&show_icons=true&theme=tokyonight&count_private=true" alt="Rasanjana's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana-54&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasanjana-54&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasanjana-54&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
 </p>
 
 
