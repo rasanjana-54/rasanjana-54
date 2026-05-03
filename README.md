@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rasanjana K.
+# 👋 Hi, I'm Rasanjana Nimsara
 ### **Aspiring Full-Stack Developer | IT Undergraduate | AI Enthusiast**
 **Actively seeking Software Engineering Internship opportunities**
 
